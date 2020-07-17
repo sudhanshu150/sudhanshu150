@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sudhanshu.
+## I am Sudhanshu.
 
 - 🔭 I’m currently working on my skill
 - 🌱 I’m currently learning computer science
@@ -10,8 +10,9 @@ I am Sudhanshu.
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 🎧 [spotify][spotify] **|**
+  [Facebook][Facebook] **|**
 
 [instagram]: https://instagram.com/sudanshu29__
 [linkedin]: https://www.linkedin.com/in/sudhanshu-322a79185/
-[spotify]: https://npmjs.com/~jamesqquick
-[brad]: https://github.com/bradgarropy
+[spotify]: https://www.spotify.com/in/account/overview/#_=_
+[Facebook]: https://www.facebook.com/login/
