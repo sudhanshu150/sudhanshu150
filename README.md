@@ -1,16 +1,17 @@
 ### Hi there 👋
+I am Sudhanshu.
 
-<!--
-**sudhanshu150/sudhanshu150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my skill
+- 🌱 I’m currently learning computer science
+- 👯 I’m looking to collaborate on web development
+- 😄 Pronouns:He/His
+- ⚡ Fun fact:I like to watch web series
 
-Here are some ideas to get you started:
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+🎧 [spotify][spotify] **|**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[instagram]: https://instagram.com/sudanshu29__
+[linkedin]: https://www.linkedin.com/in/sudhanshu-322a79185/
+[spotify]: https://npmjs.com/~jamesqquick
+[brad]: https://github.com/bradgarropy
