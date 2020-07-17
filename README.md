@@ -8,7 +8,7 @@
 - ⚡ Fun fact:I like to watch web series
 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin]**|**
 🎧 [spotify][spotify] **|**
   [Facebook][Facebook] **|**
 
