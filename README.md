@@ -16,3 +16,5 @@
 [linkedin]: https://www.linkedin.com/in/sudhanshu-322a79185/
 [spotify]: https://www.spotify.com/in/account/overview/#_=_
 [Facebook]: https://www.facebook.com/login/
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
