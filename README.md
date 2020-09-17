@@ -15,7 +15,7 @@
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sudhanshu291999//">
+<a href="https://www.linkedin.com/in/sudhanshu291999//">
   <img align="left" alt="sudhanshu|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com8">
